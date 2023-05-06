@@ -177,7 +177,7 @@ div#btn-print-dir {
 
 /* AQUI COMEÇA A TELA ----------------------------------------------- */
 div#tela {
-    background-color:black;
+    background-color:rgb(26, 26, 26);
     display: flex;
     flex-direction: column;
     margin-top: 2vw;
